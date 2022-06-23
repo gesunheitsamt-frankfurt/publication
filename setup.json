@@ -1,6 +1,6 @@
 {
   "__comment": "Set values to false if no link should be created.",
-  "repoURL": "https://github.com/organisation-name/publication-name/",
+  "repoURL": "https://github.com/gesunheitsamt-frankfurt/publication/",
   "repoBranch": "main",
   "vivlioURL": "https://vivliostyle.vercel.app/",
   "podURL": "https://doabooks.org/"
